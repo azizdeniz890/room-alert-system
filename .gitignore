@@ -1,0 +1,7 @@
+# .gitignore
+*.pt
+!python/yolov5s.pt  # Sadece bu model eklenecek
+
+__pycache__/
+*.pyc
+.vscode/
